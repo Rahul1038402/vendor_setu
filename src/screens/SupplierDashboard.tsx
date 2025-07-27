@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Truck, DollarSign, Star, Plus, BarChart3, Store, Shield, Package, X } from 'lucide-react';
+import { Truck, DollarSign, Star, Plus, Store, Shield, Package, X } from 'lucide-react';
 import type { Product } from '../types';
 import { KYCStatus } from '../components/ui/KYCStatus';
 import { StatsCard } from '../components/ui/StatsCard';
