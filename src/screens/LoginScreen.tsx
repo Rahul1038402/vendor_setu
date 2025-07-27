@@ -117,7 +117,7 @@ const LoginScreen: React.FC<LoginScreenProps> = ({ userType, setUserType, setCur
         Vendor Setu
       </div>
       <div className="role-title">
-        <h2>Choose Your Role</h2>
+        <h2 className='text-gray-900'>Choose Your Role</h2>
       </div>
       <div className="button-container">
         <button 
